@@ -1,2 +1,3 @@
 line1
 revert changes
+checking revert command
